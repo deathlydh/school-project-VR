@@ -9,29 +9,29 @@ EditorBuildSettings:
     path: Assets/BNG Framework/Scenes/XR Demo.unity
     guid: a1360534006d3f845bc79b46b93cfec5
   - enabled: 0
-    path: Assets/BNG Framework/Scenes/Scene Transitioning.unity
+    path: Assets/BNG Framework/Scenes/NotUse/Scene Transitioning.unity
     guid: 9d7c9629abf9c99449e358b0938b47d0
   - enabled: 0
-    path: Assets/BNG Framework/Scenes/Physics Hands.unity
+    path: Assets/BNG Framework/Scenes/NotUse/Physics Hands.unity
     guid: 34a4579517c578e4080d0a6ef2c96294
   - enabled: 0
-    path: Assets/BNG Framework/Scenes/Rigidbody Player.unity
+    path: Assets/BNG Framework/Scenes/NotUse/Rigidbody Player.unity
     guid: 57fc97c5771a777449aa8bd02514df22
   - enabled: 0
-    path: Assets/BNG Framework/Scenes/Vehicle Example.unity
+    path: Assets/BNG Framework/Scenes/NotUse/Vehicle Example.unity
     guid: d96233ee44d985d4fb8dc23a907c06eb
   - enabled: 0
-    path: Assets/BNG Framework/Scenes/Quest Demo.unity
+    path: Assets/BNG Framework/Scenes/NotUse/Quest Demo.unity
     guid: eac0312c32df12949a47d07747a9d1cd
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 95738646979e66347937d1a88ead7f33,
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 901d43167ba352149859c0c284585055,
       type: 2}
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 2ec24d39f7b5ac84aad7e5df7b4fd3ea,
       type: 2}
     WebXR.Settings: {fileID: 11400000, guid: fe9659bb224bb054bb1dbca065d1d318, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 7c0d65f8139523c47a3ac0b1587ccdf6,
       type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bc87842975b39e54c9a8257bb65aef55,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fd4b05667e94e7f44aa9b24712522399,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 96f004160de29354a8a1d4ce0fcf7f32,
       type: 2}
